@@ -1,0 +1,81 @@
+{
+    "bot": {
+        "token": "",
+        "owner": "618444525727383592",
+        "prefix": "."
+    },
+    "penals": {
+        "ban": {
+            "staff": "",
+            "log": "",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "",
+            "log": ""
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20"
+        }
+    },
+    "logs": {
+        "messagelog": "",
+        "voicelog": "",
+        "taglog": ""
+    },
+    "roles": {
+        "boosterrole": "",
+        "viprole": "",
+        "designerrole": "",
+        "musiciansrole": "",
+        "ekip": ""
+    },
+    "meeting": {
+        "katıldı": "",
+        "yetkili": "",
+        "meetingchannel": ""
+    },
+    "channels": {
+        "chat": "",
+        "voicechannel": "",
+        "welcomechannel": "",
+        "taglog": "",
+        "rules": ""
+    },
+    "parents": {
+        "publicparents": ""
+    },
+    "registration": {
+        "unregistered": "",
+        "man": [""],
+        "woman": [""],
+        "staff": "",
+        "GuilDTag": "",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "",
+        "susoeciosnickname": "Şüpheli | Hesap",
+        "oneman": "",
+        "onewoman": "",
+        "minage": 12,
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "",
+        "GuilDName": ""
+    }
+}
